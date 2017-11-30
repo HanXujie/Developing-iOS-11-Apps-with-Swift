@@ -21,47 +21,47 @@ No. Yes, four of Stanford CS193P, Fall of 2017.
 5
 00:00:15,249 --> 00:00:18,583
 Today, we're gonna continue to talk about Swift.
-
+今天我们将继续讨论swift
 6
 00:00:18,652 --> 00:00:21,019
 This will be the last we talk about Swift. After this,
-
+这是我们最后一次谈论swift
 7
 00:00:21,088 --> 00:00:23,655
 we're pretty much gonna kinda assume you know Swift.
-
+之后，我差不多会认为你认识swift
 8
 00:00:23,724 --> 00:00:26,491
 Obviously you'll be learning on the fly as you go, but
-
+很显然你将飞速的学习
 9
 00:00:26,560 --> 00:00:27,592
 starting next week,
-
+但是下周开始
 10
 00:00:27,661 --> 00:00:29,861
 we're gonna dive right into iOS, UI kit and
-
+我们将要讨论iOS，UIKit什么的
 11
 00:00:29,930 --> 00:00:33,198
 all that. So I'm gonna do the quick demo that I postponed
-
+我将做一个简短的演示
 12
 00:00:33,267 --> 00:00:36,968
 from Wednesday of this mutating keyword that we have
-
+这是针对从星期三开始一直推迟讲的两个关键字
 13
 00:00:37,037 --> 00:00:39,771
 to add when we make something a struct versus a class. Then
-
+这两个关键字是struct和class
 14
 00:00:39,840 --> 00:00:43,274
 we're gonna talk about two very important topics today.
-
+然后今天我们将要讨论两个重要的话题
 15
 00:00:43,343 --> 00:00:45,910
 Protocols and closures.
-
+Protocols和closures
 16
 00:00:45,979 --> 00:00:48,647
 Functions as types of general those two and in between, I'm
